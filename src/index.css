@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Regular;
+  src: url(./assets/Regular.otf);
+}
+@font-face {
+  font-family: Metal-Regular;
+  src: url(./assets/font/MetalMania-Regular.ttf);
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Regular;
+}
